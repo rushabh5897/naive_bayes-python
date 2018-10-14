@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-
+@author: Rushabh Sancheti
 This is a temporary script file.
 """
 import pandas as pd
